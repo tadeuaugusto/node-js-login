@@ -1,0 +1,30 @@
+{
+  "name": "node-js-login",
+  "version": "1.0.0",
+  "description": "Node JS demo project to login/register with MySQL through Android app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tadeuaugusto/node-js-login.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "android"
+  ],
+  "author": "tadeuaugusto@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tadeuaugusto/node-js-login/issues"
+  },
+  "homepage": "https://github.com/tadeuaugusto/node-js-login#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "uuid": "^3.3.2"
+  }
+}
